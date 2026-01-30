@@ -26,3 +26,16 @@ and demonstrate UI building and basic app structure.
 ## Author
 Humaira
 
+## 📥 Download the APK
+
+Get the latest **Quotes App Android APK**:
+
+➡️ [Download Quotes App APK (v1.0.0)](https://github.com/HumairaNazir/quotes-app-/releases/download/v1.0.0/app-release.apk)
+
+---
+
+### 📌 How to install the APK
+1. Download the APK from the link above
+2. Open it on your Android device
+3. Allow installation from unknown sources (if prompted)
+4. Enjoy the Quotes App ✨
